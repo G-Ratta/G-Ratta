@@ -9,7 +9,7 @@ always learning new languges
 - 👀 I’m interested in Game dev
 - 🌱 I’m currently learning C# - Unity
 - 💞️ I’m looking to collaborate on anything really
-Discord - G_Ratta#4026
+- Discord - G_Ratta#4026
 
 <!---
 G-Ratta/G-Ratta is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
